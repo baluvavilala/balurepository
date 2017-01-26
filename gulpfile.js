@@ -24,5 +24,14 @@ gulp.task("watch",['browserSync', 'styles'],function(){
 	gulp.watch('app/scss/**/*.scss',['styles']); 
 	gulp.watch('app/*.html',browserSync.reload);
 	gulp.watch('app/js/*.js',browserSync.reload);
-})
+});
+
+var babel = require("gulp-babel");
+gulp.task("default", function(){
+	return gulp.src('app/js/*.js')
+	.pipe(babel({
+		presets : ['es2015']
+	}))
+	.pipe(gulp.dest('dist'))
+});
 
