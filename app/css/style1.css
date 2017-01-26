@@ -1,3 +1,5 @@
 div p {
   border: 1px solid blue;
-  width: 50%; }
+  width: 50%;
+  height: 50px;
+  background: green; }
