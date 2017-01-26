@@ -3,3 +3,6 @@ div p {
   width: 50%;
   height: 50px;
   background: green; }
+
+div .test1 {
+  float: left; }
