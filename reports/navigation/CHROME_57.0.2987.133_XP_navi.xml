@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="navigation.navi"
+    errors="0" failures="0" hostname="" id="" package="navigation" skipped="0"
+    tests="1" time="9.090" timestamp="Thu, 27 Apr 2017 12:40:57 GMT">
+  
+    <testcase name="Step One" classname="navigation.navi" time="9.090" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

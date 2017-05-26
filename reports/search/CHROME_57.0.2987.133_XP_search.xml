@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="search.search"
+    errors="0" failures="1" hostname="" id="" package="search" skipped="0"
+    tests="1" time="10.62" timestamp="Thu, 27 Apr 2017 11:14:48 GMT">
+  
+    <testcase name="Step One" classname="search.search" time="10.62" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element &lt;#search&gt; has css property &quot;background: none repeat scroll 0px 0px rgb(243, 241, 245)&quot;.">    at Object.&lt;anonymous&gt; (C:\Users\sowmya.dontharaboina\Documents\Nightwatch\tests\search\search.js:22:25)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

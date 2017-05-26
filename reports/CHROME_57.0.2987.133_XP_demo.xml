@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="demo"
+    errors="0" failures="1" hostname="" id="" package="demo" skipped="0"
+    tests="2" time="20.71" timestamp="Wed, 10 May 2017 05:58:23 GMT">
+  
+    <testcase name="Step One" time="16.33" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Step Two" time="4.380" assertions="2">
+
+      <failure message="Testing if element &lt;#main&gt; contains text: &quot;Night Watch&quot;.">    at Object.Step Two (C:\BankOfBrands\Automation_scripts\tests\demo.js:16:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="tick"
+    errors="0" failures="1" hostname="" id="" package="tick" skipped="0"
+    tests="1" time="13.27" timestamp="Fri, 26 May 2017 13:17:35 GMT">
+  
+    <testcase name="Tick component test" time="13.27" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Failed [equal]: (Property line-height equals to24px)">    at Object.equal (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\core\api.js:67:24)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\tests\components\tick_page_obj\tick_page_obj.js:42:29)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\api\element-commands.js:361:20)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:365:18)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:381:15)
+    at IncomingMessage.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\http\request.js:166:16)</failure>
+
+      <failure message="Failed [equal]: (Property font-size equals to32px)">    at Object.equal (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\core\api.js:67:24)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\tests\components\tick_page_obj\tick_page_obj.js:42:29)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\api\element-commands.js:361:20)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:365:18)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:381:15)
+    at IncomingMessage.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\http\request.js:166:16)</failure>
+
+    
+
+    
+
+      <failure message="Failed [equal]: (Property line-height equals to24px)">    at Object.equal (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\core\api.js:67:24)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\tests\components\tick_page_obj\tick_page_obj.js:42:29)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\api\element-commands.js:361:20)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:365:18)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:381:15)
+    at IncomingMessage.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\http\request.js:166:16)</failure>
+
+      <failure message="Failed [equal]: (Property font-size equals to32px)">    at Object.equal (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\core\api.js:67:24)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\tests\components\tick_page_obj\tick_page_obj.js:42:29)
+    at Object.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\api\element-commands.js:361:20)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:365:18)
+    at HttpRequest.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\index.js:381:15)
+    at IncomingMessage.&lt;anonymous&gt; (C:\BankOfBrands\responsive-nightwatch-scripts\lib\nightwatch\lib\http\request.js:166:16)</failure>
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
